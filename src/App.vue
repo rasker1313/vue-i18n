@@ -5,11 +5,16 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import { i18nextPromise } from './i18n.js'
 
 export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  async setup(){
+    await i18nextPromise
+    return {}
   }
 }
 </script>

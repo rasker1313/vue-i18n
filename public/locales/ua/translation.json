@@ -1,0 +1,4 @@
+{
+  "welcome": "Вітаю у Vue.js додатку",
+  "descr": "Щоб подивитись додаткові матеріали що до конфігурації та кастомізації цього проєкту<br>перейдіть за посиланням <a href='https://cli.vuejs.org' target='_blank'  'rel='noopener'>vue-cli documentation</a>."
+}
